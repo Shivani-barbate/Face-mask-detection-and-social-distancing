@@ -1,0 +1,2 @@
+*.weights filter=lfs diff=lfs merge=lfs -text
+Face-mask-detection-and-social-distancing/.git/objects/a5/ed716e26824d8d166786bedf927a73c6c441fb filter=lfs diff=lfs merge=lfs -text
